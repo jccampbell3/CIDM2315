@@ -68,7 +68,7 @@ class Program {
 
         //int cantKeepTrack = inputNum;
 
-        // well done, my brain is thuroughly teased
+       
         for(int j = 1; j <= inputNum; j++) {
             for(int k = 0; k < inputNum - j; k++) Console.Write(" ");
             
